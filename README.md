@@ -5,6 +5,11 @@ This repository contains implementations and analyses related to Iris Flower Spe
 - **Exploratory Data Analysis (EDA)** of a Iris dataset.
 - **Flask Web Application** for Iris Flower Species Prediction.
 
+## Aim: 
+-	Give inputs (Sepal Length , Sepal Width , Petal Length , Petal Width) 
+-	And predict Iris flower species based on these inputs
+
+
 ## 📌 Features
 - Perform EDA to understand the dataset and key patterns.
 - Use machine learning models to predict diabetes.
