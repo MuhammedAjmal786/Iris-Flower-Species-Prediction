@@ -20,7 +20,7 @@ This repository contains implementations and analyses related to Iris Flower Spe
 ```
 📦 Diabetes-Prediction
 ├── 📂 IrisEDA                # Exploratory Data Analysis (EDA) scripts
-├── 📂 Irisapp      # Flask-based Diabetes Prediction app
+├── 📂 Irisapp      # Flask-based Iris Flower Prediction app
 ├── 📂 model.pkl      # Model saved using pickle
 templates/;
 ├── 📂 web.html
